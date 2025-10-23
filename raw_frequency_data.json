@@ -1,0 +1,394 @@
+[
+    {
+        "time": 0.166667,
+        "frequency_hz": 1162.583
+    },
+    {
+        "time": 0.333333,
+        "frequency_hz": 1244.676
+    },
+    {
+        "time": 0.5,
+        "frequency_hz": 1613.604
+    },
+    {
+        "time": 0.666667,
+        "frequency_hz": 1607.442
+    },
+    {
+        "time": 0.833333,
+        "frequency_hz": 97.065
+    },
+    {
+        "time": 1.0,
+        "frequency_hz": 107.104
+    },
+    {
+        "time": 1.166667,
+        "frequency_hz": 107.247
+    },
+    {
+        "time": 1.333333,
+        "frequency_hz": 97.455
+    },
+    {
+        "time": 1.5,
+        "frequency_hz": 97.075
+    },
+    {
+        "time": 1.666667,
+        "frequency_hz": 94.069
+    },
+    {
+        "time": 1.833333,
+        "frequency_hz": 110.594
+    },
+    {
+        "time": 2.0,
+        "frequency_hz": 99.944
+    },
+    {
+        "time": 2.166667,
+        "frequency_hz": 99.426
+    },
+    {
+        "time": 2.333333,
+        "frequency_hz": 102.449
+    },
+    {
+        "time": 2.5,
+        "frequency_hz": 102.963
+    },
+    {
+        "time": 2.666667,
+        "frequency_hz": 102.501
+    },
+    {
+        "time": 2.833333,
+        "frequency_hz": 124.019
+    },
+    {
+        "time": 3.0,
+        "frequency_hz": 166.821
+    },
+    {
+        "time": 3.166667,
+        "frequency_hz": 76.828
+    },
+    {
+        "time": 3.333333,
+        "frequency_hz": 107.871
+    },
+    {
+        "time": 3.5,
+        "frequency_hz": 234.666
+    },
+    {
+        "time": 3.666667,
+        "frequency_hz": 212.618
+    },
+    {
+        "time": 3.833333,
+        "frequency_hz": 213.426
+    },
+    {
+        "time": 4.0,
+        "frequency_hz": 223.611
+    },
+    {
+        "time": 4.166667,
+        "frequency_hz": 212.689
+    },
+    {
+        "time": 4.333333,
+        "frequency_hz": 236.732
+    },
+    {
+        "time": 4.5,
+        "frequency_hz": 236.974
+    },
+    {
+        "time": 4.666667,
+        "frequency_hz": 237.212
+    },
+    {
+        "time": 4.833333,
+        "frequency_hz": 237.039
+    },
+    {
+        "time": 5.0,
+        "frequency_hz": 236.812
+    },
+    {
+        "time": 5.166667,
+        "frequency_hz": 236.78
+    },
+    {
+        "time": 5.333333,
+        "frequency_hz": 236.31
+    },
+    {
+        "time": 5.5,
+        "frequency_hz": 234.345
+    },
+    {
+        "time": 5.666667,
+        "frequency_hz": 234.193
+    },
+    {
+        "time": 5.833333,
+        "frequency_hz": 234.063
+    },
+    {
+        "time": 6.0,
+        "frequency_hz": 233.394
+    },
+    {
+        "time": 6.166667,
+        "frequency_hz": 232.099
+    },
+    {
+        "time": 6.333333,
+        "frequency_hz": 231.709
+    },
+    {
+        "time": 6.5,
+        "frequency_hz": 231.718
+    },
+    {
+        "time": 6.666667,
+        "frequency_hz": 232.037
+    },
+    {
+        "time": 6.833333,
+        "frequency_hz": 233.7
+    },
+    {
+        "time": 7.0,
+        "frequency_hz": 234.157
+    },
+    {
+        "time": 7.166667,
+        "frequency_hz": 234.27
+    },
+    {
+        "time": 7.333333,
+        "frequency_hz": 234.551
+    },
+    {
+        "time": 7.5,
+        "frequency_hz": 235.941
+    },
+    {
+        "time": 7.666667,
+        "frequency_hz": 236.585
+    },
+    {
+        "time": 7.833333,
+        "frequency_hz": 236.534
+    },
+    {
+        "time": 8.0,
+        "frequency_hz": 236.52
+    },
+    {
+        "time": 8.166667,
+        "frequency_hz": 236.555
+    },
+    {
+        "time": 8.333333,
+        "frequency_hz": 236.479
+    },
+    {
+        "time": 8.5,
+        "frequency_hz": 236.103
+    },
+    {
+        "time": 8.666667,
+        "frequency_hz": 234.681
+    },
+    {
+        "time": 8.833333,
+        "frequency_hz": 234.197
+    },
+    {
+        "time": 9.0,
+        "frequency_hz": 234.133
+    },
+    {
+        "time": 9.166667,
+        "frequency_hz": 233.832
+    },
+    {
+        "time": 9.333333,
+        "frequency_hz": 232.506
+    },
+    {
+        "time": 9.5,
+        "frequency_hz": 231.89
+    },
+    {
+        "time": 9.666667,
+        "frequency_hz": 231.756
+    },
+    {
+        "time": 9.833333,
+        "frequency_hz": 231.815
+    },
+    {
+        "time": 10.0,
+        "frequency_hz": 232.204
+    },
+    {
+        "time": 10.166667,
+        "frequency_hz": 233.812
+    },
+    {
+        "time": 10.333333,
+        "frequency_hz": 234.142
+    },
+    {
+        "time": 10.5,
+        "frequency_hz": 234.173
+    },
+    {
+        "time": 10.666667,
+        "frequency_hz": 234.292
+    },
+    {
+        "time": 10.833333,
+        "frequency_hz": 234.442
+    },
+    {
+        "time": 11.0,
+        "frequency_hz": 235.361
+    },
+    {
+        "time": 11.166667,
+        "frequency_hz": 236.229
+    },
+    {
+        "time": 11.333333,
+        "frequency_hz": 235.934
+    },
+    {
+        "time": 11.5,
+        "frequency_hz": 235.181
+    },
+    {
+        "time": 11.666667,
+        "frequency_hz": 234.515
+    },
+    {
+        "time": 11.833333,
+        "frequency_hz": 234.204
+    },
+    {
+        "time": 12.0,
+        "frequency_hz": 234.147
+    },
+    {
+        "time": 12.166667,
+        "frequency_hz": 234.087
+    },
+    {
+        "time": 12.333333,
+        "frequency_hz": 233.849
+    },
+    {
+        "time": 12.5,
+        "frequency_hz": 233.72
+    },
+    {
+        "time": 12.666667,
+        "frequency_hz": 233.897
+    },
+    {
+        "time": 12.833333,
+        "frequency_hz": 234.093
+    },
+    {
+        "time": 13.0,
+        "frequency_hz": 234.155
+    },
+    {
+        "time": 13.166667,
+        "frequency_hz": 234.268
+    },
+    {
+        "time": 13.333333,
+        "frequency_hz": 235.043
+    },
+    {
+        "time": 13.5,
+        "frequency_hz": 236.379
+    },
+    {
+        "time": 13.666667,
+        "frequency_hz": 236.666
+    },
+    {
+        "time": 13.833333,
+        "frequency_hz": 236.73
+    },
+    {
+        "time": 14.0,
+        "frequency_hz": 236.765
+    },
+    {
+        "time": 14.166667,
+        "frequency_hz": 236.91
+    },
+    {
+        "time": 14.333333,
+        "frequency_hz": 237.321
+    },
+    {
+        "time": 14.5,
+        "frequency_hz": 99.486
+    },
+    {
+        "time": 14.666667,
+        "frequency_hz": 85.899
+    },
+    {
+        "time": 14.833333,
+        "frequency_hz": 96.201
+    },
+    {
+        "time": 15.0,
+        "frequency_hz": 77.969
+    },
+
+
+
+    
+    {
+        "time": 15.166667,
+        "frequency_hz": 80.243
+    },
+    {
+        "time": 15.333333,
+        "frequency_hz": 101.386
+    },
+    {
+        "time": 15.5,
+        "frequency_hz": 110.453
+    },
+    {
+        "time": 15.666667,
+        "frequency_hz": 121.6
+    },
+    {
+        "time": 15.833333,
+        "frequency_hz": 96.791
+    },
+    {
+        "time": 16.0,
+        "frequency_hz": 1208.585
+    },
+    {
+        "time": 16.166667,
+        "frequency_hz": 1206.573
+    }
+]
